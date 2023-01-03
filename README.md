@@ -29,5 +29,5 @@ Supervised by: Dr, Sandar Khawaja
 
 
 # DEMO
-![My Image](Demo.png)
+!(Demo.png)
 
