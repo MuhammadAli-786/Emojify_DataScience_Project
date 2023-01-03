@@ -29,5 +29,5 @@ Supervised by: Dr, Sandar Khawaja
 
 
 # DEMO
-![Demo Image](Demo.png)
+<img src="/repository/Demo Image/Demo.png" alt="Demo" title="Image">
 
