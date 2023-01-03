@@ -23,9 +23,6 @@ In this project we will classify human facial expressions to filter and map corr
 * Open that ip on any browser
 
 
-## Help
-If you need any help feel free to contact on email: amjadpitafi070@gmail.com
-
 ## Authors
 Developed by: Muhammad Ali and Team <br>
 Supervised by: Dr, Sandar Khawaja
